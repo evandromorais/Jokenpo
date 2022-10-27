@@ -1,6 +1,13 @@
 # Jokenpo
 Simples iniciante. Beginner.
 
+
+
+
+
+
+
+
 import java.util.Scanner;
 import java.util.Random;
 
