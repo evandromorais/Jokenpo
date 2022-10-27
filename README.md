@@ -1,0 +1,2 @@
+# Jokenpo
+Simples iniciante. Beginner.
